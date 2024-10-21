@@ -13,4 +13,4 @@ Lack of awareness and insufficient training are barriers to accessing DRI tools.
 
 ## Contact
 
-- **Reach Out:** Contact cj.alumona@uleth.ca for questions, feedback, or ideas
+- **Reach Out:** Contact cj.alumona@uleth.ca for questions, feedback, or ideas.
