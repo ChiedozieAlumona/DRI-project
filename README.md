@@ -1,6 +1,8 @@
 # DRI EDIA project
 
-*Welcome! This project is dedicated to training racialized scholars in the Faculty of Health Sciences to utilize Digital Research Infrastructure (DRI).*  
+![](https://static.vecteezy.com/system/resources/thumbnails/026/163/185/small_2x/welcome-tag-market-message-flat-illustration-on-white-background-vector.jpg)
+
+*This project is dedicated to training racialized scholars in the Faculty of Health Sciences to utilize Digital Research Infrastructure (DRI).*  
 
 ## Vision and Mission
 
